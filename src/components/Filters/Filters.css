@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+
+div.filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45px;
+  width: 98vw;
+  background-color: #4496d0;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  margin-right: 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+select {
+  width: 150px;
+  height: 30px;
+  margin-right: 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+button.clean {
+  width: 150px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  background: rgba(255, 0, 0, 0.8);
+}

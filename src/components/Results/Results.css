@@ -1,0 +1,12 @@
+div.contenedorResults {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 98vw;
+  margin-top: 80px;
+}
+
+img.error404 {
+  width: 60%;
+}
