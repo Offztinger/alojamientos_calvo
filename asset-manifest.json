@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alojamientos_calvo/static/css/main.d8854c55.chunk.css",
+    "main.js": "/alojamientos_calvo/static/js/main.40db47ba.chunk.js",
+    "main.js.map": "/alojamientos_calvo/static/js/main.40db47ba.chunk.js.map",
+    "runtime-main.js": "/alojamientos_calvo/static/js/runtime-main.d7c524a5.js",
+    "runtime-main.js.map": "/alojamientos_calvo/static/js/runtime-main.d7c524a5.js.map",
+    "static/js/2.ef40da29.chunk.js": "/alojamientos_calvo/static/js/2.ef40da29.chunk.js",
+    "static/js/2.ef40da29.chunk.js.map": "/alojamientos_calvo/static/js/2.ef40da29.chunk.js.map",
+    "index.html": "/alojamientos_calvo/index.html",
+    "static/css/main.d8854c55.chunk.css.map": "/alojamientos_calvo/static/css/main.d8854c55.chunk.css.map",
+    "static/js/2.ef40da29.chunk.js.LICENSE.txt": "/alojamientos_calvo/static/js/2.ef40da29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c524a5.js",
+    "static/js/2.ef40da29.chunk.js",
+    "static/css/main.d8854c55.chunk.css",
+    "static/js/main.40db47ba.chunk.js"
+  ]
+}
